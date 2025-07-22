@@ -1,4 +1,4 @@
-0# WordPress Core – Custom Fork (Fix for Trac Ticket #63120)
+ WordPress Core – Custom Fork (Fix for Trac Ticket #63120)
 
 This fork of the [official WordPress Core repository](https://github.com/WordPress/wordpress-develop) contains my contribution to fix a bug related to emoji rendering in plugin titles in the WordPress admin area.
 
