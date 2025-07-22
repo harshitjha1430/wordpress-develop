@@ -1,4 +1,4 @@
-# WordPress Core – Custom Fork (Fix for Trac Ticket #63120)
+0# WordPress Core – Custom Fork (Fix for Trac Ticket #63120)
 
 This fork of the [official WordPress Core repository](https://github.com/WordPress/wordpress-develop) contains my contribution to fix a bug related to emoji rendering in plugin titles in the WordPress admin area.
 
@@ -7,7 +7,7 @@ This fork of the [official WordPress Core repository](https://github.com/WordPre
 - **Issue**: Emoji fallback characters were incorrectly rendered in plugin titles within the admin dashboard.
 - **Fix**: Implemented a detection and fallback mechanism to prevent rendering issues for emojis in plugin headers.
 - **Ticket Reference**: [Trac Ticket #63120](https://core.trac.wordpress.org/ticket/63120)
-- **Pull Request**: [View PR on GitHub](https://github.com/WordPress/wordpress-develop/pull/XXXX)
+- **Pull Request**: [View PR on GitHub](https://github.com/WordPress/wordpress-develop/pull/9293)
 
 ## 🧪 Technical Details
 
